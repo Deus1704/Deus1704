@@ -1,16 +1,32 @@
-### Hi there 👋
+## &nbsp;&nbsp;Hi there 👋 &nbsp;&nbsp;I'm Jay Dulange
 
-<!--
-**Deus1704/Deus1704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+keen+Web+Developer;Competitive+programmer;Cybersecurity+Enthusiast&width=280&height=25"></a>
+</p>
+<hr>
+<div align="center">
 
-Here are some ideas to get you started:
+![profile-card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deus1704&theme=tokyonight)
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deus1704&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deus1704&theme=tokyonight) 
+</div>
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deus1704&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deus1704&theme=tokyonight&utcOffset=8)
+</div>
+
+
+<div align="center">
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Deus1704&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
+</div>
+
+<div align="center">
+  
+![trophies](https://github-profile-trophy.vercel.app/?username=Deus1704&theme=monokai)
+</div>
+
+
