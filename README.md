@@ -25,6 +25,6 @@
 ![trophies](https://github-profile-trophy.vercel.app/?username=Deus1704&theme=monokai)
 </div>
 <div align="center">
-  <p>Profile Views</p>
+  <h3>Profile Views</h3>
   <img src="https://profile-counter.glitch.me/Deus1704/count.svg">
 </div>
