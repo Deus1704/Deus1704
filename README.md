@@ -1,4 +1,4 @@
-## &nbsp;&nbsp;Hi there 👋 &nbsp;I'm Jay Dulange
+## &nbsp;&nbsp;Hi there 👋 &nbsp;I'm Jayraj Dulange
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+keen+Web+Developer;Competitive+programmer;Cybersecurity+Enthusiast&width=280&height=25"></a>
