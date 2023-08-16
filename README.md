@@ -28,3 +28,6 @@
   <h3>Profile Views</h3>
   <img src="https://profile-counter.glitch.me/Deus1704/count.svg">
 </div>
+
+
+#### Idea_Credits: [Raviraj Dulange](github.com/rjd02)
