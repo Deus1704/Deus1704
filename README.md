@@ -14,7 +14,7 @@
 </div>
 <div align="center">
   
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deus1704&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deus1704&theme=tokyonight&utcOffset=8)
+![github.com/rjd02](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deus1704&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deus1704&theme=tokyonight&utcOffset=8)
 </div>
 <div align="center">
   
@@ -29,5 +29,3 @@
   <img src="https://profile-counter.glitch.me/Deus1704/count.svg">
 </div>
 
-
-#### Idea_Credits: [Raviraj Dulange](github.com/rjd02)
