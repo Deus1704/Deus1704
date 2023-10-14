@@ -23,6 +23,9 @@
 <div align="center">
   
 ![trophies](https://github-profile-trophy.vercel.app/?username=Deus1704&theme=monokai)
+
+[![@deus1704's](https://holopin.me/deus1704)](https://holopin.io/@deus1704)
+
 </div>
 <div align="center">
   <h3>Profile Views</h3>
