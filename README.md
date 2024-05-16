@@ -16,10 +16,10 @@
   
 ![github_summary](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Deus1704&theme=tokyonight)![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Deus1704&theme=tokyonight&utcOffset=8)
 </div>
-<!-- <div align="center">
+<div align="center">
   
 [![GitHub Streak](https://streak-stats.demolab.com?user=Deus1704&theme=tokyonight&hide_border=true&card_width=500)](https://git.io/streak-stats)
-</div> -->
+</div>
 <div align="center">
   
 ![trophies](https://github-profile-trophy.vercel.app/?username=Deus1704&theme=monokai)
